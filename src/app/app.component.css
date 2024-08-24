@@ -1,8 +1,9 @@
 h1{
-  color: red; 
-  background-color: whitesmoke;
+  color: white; 
+  background-color: rgb(214, 105, 214);
   font-size: 50px;
   text-align: center;
   padding: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
  
 }
