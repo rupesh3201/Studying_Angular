@@ -14,5 +14,8 @@ export class AppComponent {
   //two ways to write varible in type script 
   name : string = "Rupesh" 
   city = "pune"
+  //type any  which allows all type of data 
+  val :any = 20
+  any = 10
   
 }
