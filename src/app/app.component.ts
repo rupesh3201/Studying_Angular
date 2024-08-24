@@ -22,7 +22,7 @@ export class AppComponent {
   courses = ["java","html" ,"css" , "hibernate", "spring","j2ee"]
   //object
   student = {
-    name :"Rupesh" , ge:"22" , city:"pune", Edu:"btech",  per:"84.04" 
+    name :"Rupesh" , age:"22" , city:"pune", edu:"btech",  per:"84.04" 
 
   }
   
