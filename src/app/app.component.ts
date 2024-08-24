@@ -18,5 +18,6 @@ export class AppComponent {
   val :any = 20
   any = 10
   bool = true
+  courses = ["java","html" ,"css" , "hibernate", "spring","j2ee"]
   
 }
