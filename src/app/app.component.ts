@@ -25,5 +25,7 @@ export class AppComponent {
     name :"Rupesh" , age:"22" , city:"pune", edu:"btech",  per:"84.04" 
 
   }
+
+  
   
 }

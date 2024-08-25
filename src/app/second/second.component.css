@@ -1,15 +1,16 @@
 h1{
-    color: red;
+    color: rgb(11, 12, 11);
     font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(59, 128, 105);
+    background-color: rgb(107, 46, 131);
+    text-align: center;
 /* cmd ng g c "name of componets" */
 }
 .subtitle
 {
-    color: #000;
+    color: #eee6e6;
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(169, 226, 207);
+    background-color: rgb(0, 1, 0);
     text-align: center;
 }
